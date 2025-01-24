@@ -24,6 +24,8 @@
 
 @end
 
+//---- @implementation section ----
+
 @implementation Fraction {
     int numerator;
     int denominator;
