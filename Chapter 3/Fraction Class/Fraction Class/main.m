@@ -7,7 +7,10 @@
 
 #import <Foundation/Foundation.h>
 
+// From book by Stephen G. Kochan - Programming in Objective-C. Sixth Edition.
+
 // Example of Class implementation for working with fractions
+
 
 //---- @interface section ----
 
